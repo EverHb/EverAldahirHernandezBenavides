@@ -9,7 +9,7 @@ cls_datos dato = new cls_datos();
 
 Console.WriteLine("Escriba una palabra");
 string palabra = Console.ReadLine();
-Console.WriteLine("El numero de caracteres es: ");
+Console.WriteLine("El numero de caracteres de esta palabra es: ");
 
 
 datos.palabra = palabra;
